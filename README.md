@@ -24,7 +24,7 @@ I believe that learning to code should be fun and accessible to all. Python is a
 
 - **Exercises**: Test your knowledge with exercises designed to reinforce key concepts.
 
-# Please note that this repository is a work in progress. I'm continuously working on expanding and improving the content, so check back regularly for updates.
+- ### Please note that this repository is a work in progress. I'm continuously working on expanding and improving the content, so check back regularly for updates.
 
 ### How can you contribute?
 
