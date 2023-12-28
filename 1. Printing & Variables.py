@@ -11,7 +11,7 @@ print("Hello World!")
 # Example:
 
 print("Hello, I like food!")
-# Outcome: 
+# Outcome: Hello, I like food!
 
 # A variable holds a value that can be changed
 # To make a variable just give it a name
